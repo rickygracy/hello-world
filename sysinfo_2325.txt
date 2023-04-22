@@ -1,0 +1,27 @@
+-------------------------------System Information----------------------------
+Hostname:		localhost.localdomain
+uptime:			3:09 1
+Manufacturer:		Oracle Corporation
+Product Name:		VirtualBox
+Version:		1.2
+Serial Number:		
+Machine Type:		VM
+Operating System:	Red Hat Enterprise Linux 9.1 (Plow)
+Kernel:			5.14.0-162.23.1.el9_1.x86_64
+Architecture:		x86_64
+Processor Name:		Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Active User:		ricky
+System Main IP:		192.168.1.202 2603:8081:8d06:aa11::1275 2603:8081:8d06:aa11:a00:27ff:fe6c:1deb
+
+-------------------------------CPU/Memory Usage------------------------------
+Memory Usage:	80.82%
+Swap Usage:	50.75%
+CPU Usage:	3.80%
+
+-------------------------------Disk Usage >80%-------------------------------
+Filesystem                                                            Size  Used Avail Use Mounted on
+
+-------------------------------For WWN Details-------------------------------
+localhost.localdomain is a VM
+
+-------------------------------Oracle DB Instances---------------------------
